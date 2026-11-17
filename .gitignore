@@ -1,0 +1,13 @@
+# RPG Maker MZ local editor state and deployment output
+.DS_Store
+Thumbs.db
+*.log
+*.bak
+*.tmp
+*.swp
+.saves/
+save/
+www/save/
+node_modules/
+coverage/
+*.zip
